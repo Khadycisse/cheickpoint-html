@@ -1,0 +1,7 @@
+
+nav ul li{
+list-style-type: none;
+display: inline-block;  
+padding: 50px;
+}
+@import url('https://fonts.googleapis.com/css2? family= Roboto+Condensed:ital,wght@1,300 & family= Roboto:ital@1 & display=swap');
